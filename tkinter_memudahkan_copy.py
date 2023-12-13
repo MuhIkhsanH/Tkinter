@@ -24,7 +24,7 @@ def on_leave(event, button):
     button.config(relief='flat', bg='#4CAF50', fg='white')  # Mengembalikan relief dan warna latar belakang/teks saat pointer keluar
 
 root = tk.Tk()
-root.title("Aplikasi Copy Gus Mukhlis")
+root.title("Aplikasi Copy ABCDE")
 
 entry_text = tk.Text(root, width=60, height=10)
 entry_text.pack(pady=10)
