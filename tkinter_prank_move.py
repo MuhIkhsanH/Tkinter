@@ -37,7 +37,7 @@ root.title("Jendela Acak")
 # Mengatur ukuran awal jendela
 root.geometry("150x50")
 
-t1 = tk.Label(root,text="VIRUS.EXE")
+t1 = tk.Label(root,text="CATCH ME IF YOU CAN")
 t1.pack()
 
 # Menambahkan event handler untuk pergerakan kursor
